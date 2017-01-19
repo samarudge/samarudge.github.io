@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+## WebFerret 2.7
+There are a huge number of programs out there to search the internet - many using more than one search engine at the same time. WebFerret offers one of the simplest and quickest ways to do so. Add to that the fact that it integrates nicely into your windows shell, impressive speeds and ease of use, oh and let's not forget the price - it's free!
 
-You can use the [editor on GitHub](https://github.com/samarudge/samarudge.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+What you get:  A remarkably fast and easy to use program, accessed through the Find Option of your Windows 95/98 start button. It searches all the "main" popular search engines, including HotBot, Yahoo!, Excite, Lycos, AOL NetFind, Infoseek and more. Holding the cursor over a listed entry gives you more information; double-clicking opens up your browser at the chosen site. A particularly nice option is being able to save searches for later refence.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+There are a large number of more-complex applications out there, with far more features. But in terms of speed and ease of use, there's little to complain about with this one.
 
-### Markdown
+The interface is standard Windows 95-8/ NT, accessed through the Find section of the start menu. Web pages can be found simply by entering a keyword (or keywords) and clicking "Find Now". It's that simple. The software can also be accessed through an icon on the desktop - the installation even asks you if you want it there or not.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/samarudge/samarudge.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+ I personally have three main internet-search applications on my desktop; each of them is well suited to a particular task. But everyone at some point wants a quick, simple solution to search the internet. WebFerret is that solution, and I am yet to come across a faster or simpler one.
